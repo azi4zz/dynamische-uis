@@ -1,2 +1,1 @@
-# cijfer ruit af maken
-beginnen met horeca
+ # horeca af maken
